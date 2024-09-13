@@ -16,6 +16,8 @@ public class Main {
 
         /*
 
+        Digit is already given, dont need to find digit of num
+
         During the first construction of the code, I had the idea of using modulus to take the last digit of
         the given number. however, it would result in printing the year backwards. For example :
 
